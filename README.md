@@ -1,5 +1,3 @@
-# gitrizcky.github.io
-PMP exam certification leaning notes
 # 📚 PMP Study Guide: Project Management Approaches
 
 ## Comprehensive Comparison of Predictive (Waterfall) vs. Agile Project Management
